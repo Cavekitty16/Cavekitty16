@@ -1,12 +1,12 @@
-<pre>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⡴⠶⠶⠶⢦⣄⡀⠀⠀⠀⠀																
+<pre>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⡴⠶⠶⠶⢦⣄⡀⠀⠀⠀⠀											
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡖⡋⢃⣠⣤⡤⠈⣉⠓⢦⡀				Erich Jaster - Cavekitty16
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣤⣏⠎⣰⣵⠟⠉⠉⠙⠳⣅⠢⡙⢆⠀     	
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⠶⠶⠤⣄⣀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⢁⠖⡟⠀⠀⠀⠀⠀⠈⠻⡤⠘⣇			I make fun games!
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⠟⠀⣠⡤⠖⢀⣀⠀⠙⢳⣀⣀⣤⠤⠤⠤⠤⠤⠤⠤⣤⣿⣾⡌⣼⣇⠀⠀⠀⠀⠀⠀⠀⢻⢠⣿   		Try out my game series Cheese Game!
 ⠀⠀⠀⠀⠀⣀⡴⠖⠛⠉⠀⠘⡟⠁⣴⡿⡉⠙⡆⢸⡏⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠻⢇⢹⢿⡀⠀⠀⠀⠀⠀⠀⢸⣤⡿			Currently working on the 2nd and 3rd installment!
    ⢀⡴⠞⠁⠀⠀⢀⡀⠀⠀⠀⢸⣿⣿⣥⡼⣧⠞⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠈⠏⢧⡀⠀⠀⠀⠀⠀⠀⠀⠀    	
-⣠⡶⠛⠀⠀⠀⠀⢰⣿⣿⣧⠀⠀⠈⠙⠉⣥⠞⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠠⢳⡄⠀⠀⠀⠀⠀⠀⠀			I am currently completing my BS in Computer Science, 
-⣿⣷⣶⠆⠀⠀⠀⠀⠙⠋⠁⠀⠀⠀⠀⠈⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢠⡹⣄⠀⠀⠀⠀⠀⠀			and minoring in Film Studies at the University of Dayton!
+⣠⡶⠛⠀⠀⠀⠀⢰⣿⣿⣧⠀⠀⠈⠙⠉⣥⠞⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠠⢳⡄⠀⠀⠀⠀⠀⠀⠀			I am currently completing my BS in Computer Science and
+⣿⣷⣶⠆⠀⠀⠀⠀⠙⠋⠁⠀⠀⠀⠀⠈⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢠⡹⣄⠀⠀⠀⠀⠀⠀			minoring in Film Studies at the University of Dayton!
 ⠘⣯⡹⣤⣤⡤⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⡷⡘⢧⠀⠀⠀⠀⠀ 			
 ⠀⠀⠙⠳⠯⣄⣠⣀⠠⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣧⠹⣎⣧⠀⠀⠀⠀      		Contact me at:
 ⠀⠀⠀⠀⠀⠀⠀⠉⠙⠳⣌⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣾⣇⢹⡸⡆⠀⠀⠀      			School Email: Jastere1@udayton.edu
