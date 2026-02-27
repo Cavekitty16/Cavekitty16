@@ -9,8 +9,8 @@
 ⣿⣷⣶⠆⠀⠀⠀⠀⠙⠋⠁⠀⠀⠀⠀⠈⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢠⡹⣄⠀⠀⠀⠀⠀⠀			minoring in Film Studies at the University of Dayton!
 ⠘⣯⡹⣤⣤⡤⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⡷⡘⢧⠀⠀⠀⠀⠀ 			
 ⠀⠀⠙⠳⠯⣄⣠⣀⠠⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣧⠹⣎⣧⠀⠀⠀⠀      		Contact me at:
-⠀⠀⠀⠀⠀⠀⠀⠉⠙⠳⣌⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣾⣇⢹⡸⡆⠀⠀⠀      			School Email: Jastere1@udayton.edu
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠳⣄⡀⠀⠀⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡼⣸⣿⢘⣿⡇⠀⠀⠀       		Personal Email: erichjaster@gmail.com
+⠀⠀⠀⠀⠀⠀⠀⠉⠙⠳⣌⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣾⣇⢹⡸⡆⠀⠀⠀      			Website: Cavekitty16.github.io
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠳⣄⡀⠀⠀⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡼⣸⣿⢘⣿⡇⠀⠀⠀       		Email: erichjaster@gmail.com
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢷⣤⣄⣽⣄⠀⠀⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣴⣷⡿⠋⣼⣟⡇⠀⠀⠀      			Discord: @Cavekitty16
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡷⠉⢿⣿⠀⠀⣾⣧⢦⣤⣠⣄⣦⠀⠀⠀⠀⠀⠀⢀⣰⣿⣿⣏⣡⡼⣫⡞⠀⠀⠀⠀    			Itch.io: erich-jaster.itch.io
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣶⢋⣁⣠⡿⠿⠄⠀⢿⣽⣻⣿⢉⡻⠛⠻⣶⣤⣶⣘⣹⠶⠿⠚⠻⠶⠛⠛⠁⠀⠀⠀⠀⠀			Linkedin: linkedin.com/in/erich-jaster
